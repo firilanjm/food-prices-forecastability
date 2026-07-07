@@ -102,5 +102,5 @@ pip install -r requirements.txt
 ## Author
 
 **Firila Najma Wahidah**
-Department of Statistics
+Statistics Undergraduate Student
 The University of British Columbia
