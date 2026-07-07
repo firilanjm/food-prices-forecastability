@@ -1,6 +1,5 @@
-# What Makes Indonesian Food Commodity Prices Forecastable?
-
-### Evidence from Statistical and Machine Learning Models
+# Forecastability of Indonesian Food Commodity Prices: 
+## Time-Series Characteristics and Model Performance
 
 ## Overview
 
